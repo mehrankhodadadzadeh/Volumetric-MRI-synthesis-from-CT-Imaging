@@ -36,6 +36,11 @@ python main.py
 
 
 
+
+For any academic, research, or commercial usage, kindly reference this repository or contact the author for collaboration.
+
+
+
 📦Requirements
 You can install dependencies via:
 
