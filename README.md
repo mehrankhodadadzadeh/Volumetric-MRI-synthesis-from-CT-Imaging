@@ -5,7 +5,7 @@ This project provides a deep learning framework for volumetric MRI synthesis for
 > To do more collaboration , please contact the author , mehrankhodadadzadeh90@gmail.com
   # Example Output
 
-![Example MRI-to-CT synthesis](test.png)
+![Example MRI-to-CT synthesis](mri_images.png)
 
 ---
 
